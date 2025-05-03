@@ -16,6 +16,3 @@ Hi, I'm Honey, a frontend developer exploring the world of programming.
 
 - HTML, CSS, JavaScript, React(L)
 - Node.js(L)
-
-## Connect with Me
-- 📫 Email: honey2007h28@gmail.com
